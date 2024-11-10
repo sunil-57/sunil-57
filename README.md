@@ -8,7 +8,7 @@
 - 💬 Ask me about GHOST, SPORTS, PERSONAL DEVELOPMENT, PHILOSOPHY, PSYCHOLOGY and ANIME and we can get along.
 - ⚡ Fun fact:
     - I also write stories, draw and paint.
-    - I'm learning:
+    - I'm learning to:
       + tell stories in a better way.
       + use water colors and color markers.
     - I'm a taekwondo black-belt and also a Fencer.
