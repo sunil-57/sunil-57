@@ -12,4 +12,4 @@
       + tell stories in a better way.
       + use water colors and color markers.
     - I'm a taekwondo black-belt and also a Fencer.
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-57&show_icons=true&locale=en&layout=compact" alt="sunil-57" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-57&show_icons=true&locale=en&layout=compact" alt="sunil-57" /></p> -->
